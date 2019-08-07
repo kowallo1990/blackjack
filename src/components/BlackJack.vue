@@ -102,7 +102,7 @@
 import store from '../store/index.js'
 
 export default {
-  name: 'HelloWorld',
+  name: 'BlackJack',
   data() {
     return {
       figures: store.state.figures,
