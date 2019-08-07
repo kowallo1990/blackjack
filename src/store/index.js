@@ -9,7 +9,7 @@ export default new Vuex.Store({
   state: {
     money: 0,
     figures: ["J", "Q", "K", "A"],
-    colors: ["diamond", "hearts", "spades", "Clubs"],
+    colors: ["diamond", "hearts", "spades", "clubs"],
     deck: []
   },
   mutations,
